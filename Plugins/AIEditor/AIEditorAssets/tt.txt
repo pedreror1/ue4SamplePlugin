@@ -1,0 +1,18 @@
+4
+index: 0 PosX: 20812.0 PosY: 2094.0
+index: 1 PosX: 21359.0 PosY: 2624.0
+index: 2 PosX: 21690.0 PosY: 2143.0
+index: 3 PosX: 21148.992188 PosY: 1983.150879
+9
+m_iFrom: 0 m_iTo : 2.0 m_dCost : 879.366272 m_iFlags : 0 ID : -1
+m_iFrom: 0 m_iTo : 1.0 m_dCost : 761.648865 m_iFlags : 0 ID : -1
+m_iFrom: 0 m_iTo : 3.0 m_dCost : 355.083038 m_iFlags : 0 ID : -1
+m_iFrom: 1 m_iTo : 0.0 m_dCost : 761.648865 m_iFlags : 0 ID : -1
+m_iFrom: 1 m_iTo : 2.0 m_dCost : 583.885254 m_iFlags : 0 ID : -1
+m_iFrom: 2 m_iTo : 1.0 m_dCost : 583.885254 m_iFlags : 0 ID : -1
+m_iFrom: 2 m_iTo : 3.0 m_dCost : 564.3349 m_iFlags : 0 ID : -1
+m_iFrom: 3 m_iTo : 2.0 m_dCost : 564.3349 m_iFlags : 0 ID : -1
+m_iFrom: 3 m_iTo : 0.0 m_dCost : 355.083038 m_iFlags : 0 ID : -1
+20461 1930 168 
+6490 6490 
+100 10

@@ -1,0 +1,14 @@
+3
+index: 0 PosX: 23610 PosY: 2503 PosZ: 175
+index: 1 PosX: 23350 PosY: 2358 PosZ: 175
+index: 2 PosX: 23601 PosY: 2226 PosZ: 169
+4
+m_iFrom: 0 m_iTo: 2 m_dCost: 277.211121 m_iFlags: 0 ID: -1
+m_iFrom: 1 m_iTo: 0 m_dCost: 297.699524 m_iFlags: 0 ID: -1
+m_iFrom: 2 m_iTo: 0 m_dCost: 277.211121 m_iFlags: 0 ID: -1
+m_iFrom: 2 m_iTo: 1 m_dCost: 283.656494 m_iFlags: 0 ID: -1
+23394 1916 298
+6490 1230 1230
+100 10 10
+1
+1 400 23478 2321 166 9.160433 1

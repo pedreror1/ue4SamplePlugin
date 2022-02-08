@@ -1,0 +1,34 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "AIEditor",
+	"Description": "An AI Graph Editor",
+	"Category": "AI",
+	"CreatedBy": "Jorgais",
+	"CreatedByURL": "pedreror1.io",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": false,
+	"IsBetaVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "AIEditor",
+			"Type": "Editor",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [                       
+     {                                
+       "Name": "ProceduralMeshComponent",     
+       "Enabled": true,    
+       "WhitelistPlatforms" :
+			[
+				"Win64",
+				"Win32"
+			]             
+     }                                
+   ]      
+}
